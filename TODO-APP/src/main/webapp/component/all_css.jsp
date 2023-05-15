@@ -29,7 +29,7 @@
 }
 
 .nav{
-    background-color:#86cdf3;
+    background-color:#C1D0B5;
     color: black;
     padding:1rem;
     border-bottom-right-radius: 1rem;
